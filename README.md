@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**nmitydv/nmitydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Namit Yadav, a passionate Full Stack Developer hailing from the vibrant tech scene in India. With a penchant for turning ideas into digital realities, I craft web applications that not only work seamlessly but also leave a lasting impression.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack:
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+- **Backend:** Node.js, Express.js, Nest.js , Java
+- **Database:** MongoDB , SQL
+- **Cloud:** AWS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education:
+- **Degree :** 	Bachelor of Computer Application
+- **University Name:** Vikram University Ujjain (India)
+- **Graduation Year:** 2025
+
+Let's collaborate and build extraordinary things together! 🚀 Feel free to connect with me on [LinkedIn](LinkedIn-link). Looking forward to the journey ahead! 🤝
+
