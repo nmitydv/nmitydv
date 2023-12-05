@@ -13,5 +13,5 @@ I'm Namit Yadav, a passionate Full Stack Developer hailing from the vibrant tech
 - **University Name:** Vikram University Ujjain (India)
 - **Graduation Year:** 2025
 
-Let's collaborate and build extraordinary things together! 🚀 Feel free to connect with me on [LinkedIn](LinkedIn-link). Looking forward to the journey ahead! 🤝
+Let's collaborate and build extraordinary things together! 🚀 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/namitydv14/). Looking forward to the journey ahead! 🤝
 
