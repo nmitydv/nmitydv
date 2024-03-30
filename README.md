@@ -53,5 +53,3 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 
 
-[![Namit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namityadav605&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
