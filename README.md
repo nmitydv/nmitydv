@@ -2,18 +2,6 @@
 
 I'm Namit Yadav, a passionate Full Stack Developer hailing from the vibrant tech scene in India. With a penchant for turning ideas into digital realities, I craft web applications that not only work seamlessly but also leave a lasting impression.
 
-## 🚀 Tech Stack:
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
-- **Backend:** Node.js, Express.js, Nest.js , Java
-- **Database:** MongoDB , SQL
-- **Cloud:** AWS 
-
-Let's collaborate and build extraordinary things together! 🚀 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/namitydv14/). Looking forward to the journey ahead! 🤝
-
-<h1 align="center">Hi 👋, I'm Namit Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-
 <img  align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 I am Namit Yadav, currently pursuing Bachelor in Computer Application from [Vikram University Ujjain, India]. 
@@ -65,5 +53,5 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 
 
-[![Namit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayankjaiswal1709&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Namit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namityadav605&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
