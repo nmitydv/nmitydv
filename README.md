@@ -4,7 +4,7 @@
 
 I am Namit Yadav, currently pursuing Bachelor in Computer Application from [Vikram University Ujjain, India]. 
 <br/>
-I am a tech enthusiast & a full-stack Developer. I am always open to working on open-source and Full Stack Development. 
+I am a tech enthusiast & a Software Developer. I am always open to working on open-source and Full Stack Development. 
 <br/>
 I am passionate about Coding and Software Development | Connecting with Professionals Like You on LinkedIn
 
@@ -23,7 +23,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Applications**
+- 🔭 I’m currently working on **ERP Applications CRM Application LMS Application etc**
 
 - 🌱 I’m currently learning **How to make My work more Effective**
 
