@@ -23,7 +23,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Applications CRM Application LMS Application etc**
+- 🔭 I’m currently working on **Software Solution's (ERP, LMS)**
 
 - 🌱 I’m currently learning **How to make My work more Effective**
 
