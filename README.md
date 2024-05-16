@@ -12,7 +12,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 🎓 Education: As a student, I discovered my passion for coding and software development. It all began when I created a web application aimed at helping individuals organize their daily tasks more efficiently. This experience sparked my interest in programming and ignited my continuous journey of learning and refining my skills.
 
-💻 Skills: With a solid foundation in computer science, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, Java, MongoDB, Git, and GitHub. While I excel in back-end software development, I have also acquired valuable experience in frontend-end development, specifically leveraging the power of Node.js.
+💻 Skills: With a solid foundation in computer science, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, Java, MongoDB, Git, and GitHub. While I excel in back-end software development, I have also acquired valuable experience in backend-end development, specifically leveraging the power of Node.js.
 
 📚 Continuous Growth: I am perpetually seeking new challenges and opportunities to enhance my skills and stay up-to-date with emerging technologies. The ever-evolving nature of the software development field excites me, and I am committed to continuous learning and growth.
 
