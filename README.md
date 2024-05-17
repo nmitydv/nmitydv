@@ -42,11 +42,23 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 ### Libraries & Framework :
 
+##### Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nextejs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React Native](https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=reactnative)
+
+##### Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Nestejs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
+![Nestejs](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs)
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=aws)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmitydv&show_icons=true&locale=en&layout=compact" alt="nmitydv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmitydv&" alt="nmitydv" /></p>
 
 
 
