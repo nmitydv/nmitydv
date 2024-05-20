@@ -58,7 +58,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmitydv&show_icons=true&locale=en&layout=compact" alt="nmitydv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuomersd&" alt="nmitydv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmitydv&" alt="nmitydv" /></p>
 
 
 
