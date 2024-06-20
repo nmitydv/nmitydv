@@ -27,7 +27,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 - 🌱 I’m currently learning **How to make My work more Effective**
 
-- 👨‍💻 Some of my projects are available at https://nmitydv-portfolio.vercel.app/
+- 👨‍💻 Some of my projects are available at https://devnamit.com
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/yadavnamit605@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:yadavnamit605@gmail.com)
 
