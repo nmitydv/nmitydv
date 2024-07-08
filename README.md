@@ -4,8 +4,10 @@
 
 I am Namit Yadav, currently pursuing Bachelor in Computer Application from [Vikram University Ujjain, India]. 
 <br/>
+
 I am a tech enthusiast & a Software Developer. I am always open to working on open-source and Full Stack Development. 
 <br/>
+
 I am passionate about Coding and Software Development | Connecting with Professionals Like You on LinkedIn
 
 Welcome! I am thrilled to share my background and aspirations in the field of software development.
