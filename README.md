@@ -2,7 +2,7 @@
 
 <img  align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-I am Namit Yadav, currently pursuing Bachelor in Computer Application from [Vikram University Ujjain, India]. 
+I am Namit Yadav, currently pursuing Bachelor in Computer Application from Vikram University Ujjain, India. 
 <br/>
 
 I am a tech enthusiast & a Software Developer. I am always open to working on open-source and Full Stack Development. 
