@@ -12,7 +12,7 @@ I am passionate about Coding and Software Development | Connecting with Professi
 
 Welcome! I am thrilled to share my background and aspirations in the field of software development.
 
-🎓 Education: As a student, I discovered my passion for coding and software development. It all began when I created a web application aimed at helping individuals organize their daily tasks more efficiently. This experience sparked my interest in programming and ignited my continuous journey of learning and refining my skills.
+🎓 Education: My journey in coding and software development began when I created a web application to help individuals organize their daily tasks more efficiently. That early project sparked a deep interest in programming and set me on a continuous path of learning and skill refinement that still drives me today.
 
 💻 Skills: With a solid foundation in computer science, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, Java, MongoDB, Git, and GitHub. While I excel in back-end software development, I have also acquired valuable experience in backend-end development, specifically leveraging the power of Node.js.
 
