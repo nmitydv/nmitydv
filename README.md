@@ -29,7 +29,7 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 - 🌱 I’m currently learning **How to make My work more Effective**
 
-- 👨‍💻 Dive into my digital journey — connect with me on LinkedIn: linkedin.com/in/nmitydv
+- 👨‍💻 Dive into my digital journey — connect with me on https://linkedin.com/in/nmitydv/
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/yadavnamit605@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayankjaiswal20180@gmail.com)](mailto:yadavnamit605@gmail.com)
 
