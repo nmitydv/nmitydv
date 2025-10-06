@@ -21,9 +21,6 @@ Welcome! I am thrilled to share my background and aspirations in the field of so
 
 🚀 Career Aspirations: With unwavering dedication, drive, and expertise, I am confident in my ability to contribute to any software development project. I am eagerly looking to join a dynamic team where I can leverage my skills and knowledge to make a positive impact. My ultimate goal is to evolve as a software developer and actively contribute to building innovative solutions that solve real-world problems.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankjaiswal1709&label=Profile%20views&color=0e75b6&style=flat" alt="nmitydv" /> </p>
-
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" /></a> </p>
 
 - 🔭 I’m currently working on **Software Solution's (ERP, LMS)**
