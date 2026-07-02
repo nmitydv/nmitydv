@@ -1,5 +1,37 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Namit%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+
+<a href="https://linkedin.com/in/nmitydv/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+MongoDB+%7C+AWS;Building+Web%2C+Mobile+%26+Enterprise+Apps;Let's+turn+your+ideas+into+reality!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/nmitydv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:namit@devnamit.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/nmitydv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=nmitydv&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+Hi, I'm **Namit Yadav**, a Software Developer with a Bachelor's in Computer Applications and over **4+ years of experience** building web, mobile, and enterprise applications. I specialize in end-to-end software solutions, working with technologies like **React.js, Node.js, MongoDB, React Native, and AWS** to deliver tailored, high-quality solutions for startups and enterprises.
+
+Let's turn your ideas into reality! 🚀
+
+📫 Reach me at **namit@devnamit.in** or on [LinkedIn](https://linkedin.com/in/nmitydv/)
+
+<br/>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,aws,docker,git,html,css,tailwind&perline=8" />
 
 </div>
@@ -51,27 +83,6 @@
 
 <br/>
 
-## 🚀 Featured Work
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏫 KTG School ERP
-Cloud-native, multi-tenant SaaS ERP for Indian schools — PostgreSQL/RDS, NestJS, React, Razorpay payments, WhatsApp notifications.
-
-</td>
-<td width="50%">
-
-### 📚 StudyCrux
-LMS platform built for scalable content delivery and learner management.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,6 +119,3 @@ LMS platform built for scalable content delivery and learner management.
 **Thanks for stopping by — let's build something great together! 🚀**
 
 </div>
-
-
-
