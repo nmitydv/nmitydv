@@ -31,193 +31,96 @@ Let's turn your ideas into reality! 🚀
 </div>
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### 🎨 Frontend
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">🎨 Frontend</span></b></summary>
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-EDE9FE?style=flat-square&logo=html5&logoColor=4B1248) ![CSS3](https://img.shields.io/badge/CSS3-EDE9FE?style=flat-square&logo=css3&logoColor=4B1248) ![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-EDE9FE?style=flat-square&logo=javascript&logoColor=4B1248) ![TypeScript](https://img.shields.io/badge/TypeScript-EDE9FE?style=flat-square&logo=typescript&logoColor=4B1248) ![React](https://img.shields.io/badge/React.js-EDE9FE?style=flat-square&logo=react&logoColor=4B1248) ![Next.js](https://img.shields.io/badge/Next.js-EDE9FE?style=flat-square&logo=nextdotjs&logoColor=4B1248) ![React Native](https://img.shields.io/badge/React_Native-EDE9FE?style=flat-square&logo=react&logoColor=4B1248) ![Flutter](https://img.shields.io/badge/Flutter-EDE9FE?style=flat-square&logo=flutter&logoColor=4B1248) ![Bootstrap](https://img.shields.io/badge/Bootstrap-EDE9FE?style=flat-square&logo=bootstrap&logoColor=4B1248) ![MUI](https://img.shields.io/badge/Material_UI-EDE9FE?style=flat-square&logo=mui&logoColor=4B1248) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-EDE9FE?style=flat-square&logo=tailwindcss&logoColor=4B1248) ![jQuery](https://img.shields.io/badge/jQuery-EDE9FE?style=flat-square&logo=jquery&logoColor=4B1248) ![DataTables](https://img.shields.io/badge/DataTables-EDE9FE?style=flat-square&logoColor=4B1248) ![WordPress](https://img.shields.io/badge/WordPress-EDE9FE?style=flat-square&logo=wordpress&logoColor=4B1248) ![Shopify Liquid](https://img.shields.io/badge/Shopify_(Liquid)-EDE9FE?style=flat-square&logo=shopify&logoColor=4B1248)
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- React Native
-- Flutter
-- Bootstrap
-- Material UI (MUI)
-- Tailwind CSS
-- jQuery
-- DataTables
-- WordPress
-- Shopify (Liquid)
+</div>
 
-</details>
+### ⚙️ Backend
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">⚙️ Backend</span></b></summary>
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-EDE9FE?style=flat-square&logo=nodedotjs&logoColor=4B1248) ![Express.js](https://img.shields.io/badge/Express.js-EDE9FE?style=flat-square&logo=express&logoColor=4B1248) ![NestJS](https://img.shields.io/badge/NestJS-EDE9FE?style=flat-square&logo=nestjs&logoColor=4B1248) ![REST APIs](https://img.shields.io/badge/REST_APIs-EDE9FE?style=flat-square&logoColor=4B1248) ![Microservices](https://img.shields.io/badge/Microservices-EDE9FE?style=flat-square&logoColor=4B1248) ![JWT Auth](https://img.shields.io/badge/JWT_Authentication-EDE9FE?style=flat-square&logo=jsonwebtokens&logoColor=4B1248) ![OAuth](https://img.shields.io/badge/OAuth_(Google,_Facebook)-EDE9FE?style=flat-square&logoColor=4B1248) ![Socket.IO](https://img.shields.io/badge/Socket.IO-EDE9FE?style=flat-square&logo=socketdotio&logoColor=4B1248) ![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-EDE9FE?style=flat-square&logoColor=4B1248)
 
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- Microservices
-- JWT Authentication
-- OAuth (Google, Facebook)
-- Socket.IO
-- Cron Jobs
+</div>
 
-</details>
+### 🗄️ Databases
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">🗄️ Databases</span></b></summary>
-<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-EDE9FE?style=flat-square&logo=mongodb&logoColor=4B1248) ![MySQL](https://img.shields.io/badge/MySQL-EDE9FE?style=flat-square&logo=mysql&logoColor=4B1248) ![Mongoose](https://img.shields.io/badge/Mongoose_ODM-EDE9FE?style=flat-square&logo=mongoose&logoColor=4B1248)
 
-- MongoDB
-- MySQL
-- Mongoose ODM
+</div>
 
-</details>
+### ☁️ Cloud & DevOps
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">☁️ Cloud & DevOps</span></b></summary>
-<br/>
+![Docker](https://img.shields.io/badge/Docker-EDE9FE?style=flat-square&logo=docker&logoColor=4B1248) ![Kubernetes](https://img.shields.io/badge/Kubernetes-EDE9FE?style=flat-square&logo=kubernetes&logoColor=4B1248) ![AWS](https://img.shields.io/badge/AWS-EDE9FE?style=flat-square&logo=amazonaws&logoColor=4B1248) ![Vercel](https://img.shields.io/badge/Vercel-EDE9FE?style=flat-square&logo=vercel&logoColor=4B1248) ![Render](https://img.shields.io/badge/Render-EDE9FE?style=flat-square&logo=render&logoColor=4B1248) ![Cloudflare](https://img.shields.io/badge/Cloudflare-EDE9FE?style=flat-square&logo=cloudflare&logoColor=4B1248) ![CI/CD](https://img.shields.io/badge/CI%2FCD-EDE9FE?style=flat-square&logoColor=4B1248) ![Jenkins](https://img.shields.io/badge/Jenkins-EDE9FE?style=flat-square&logo=jenkins&logoColor=4B1248) ![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-EDE9FE?style=flat-square&logo=github&logoColor=4B1248)
 
-- Docker
-- Kubernetes
-- AWS
-- Vercel
-- Render
-- Cloudflare
-- CI/CD
-- Jenkins
-- Git & GitHub
+</div>
 
-</details>
+### 📱 Mobile Development
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">📱 Mobile Development</span></b></summary>
-<br/>
+![React Native](https://img.shields.io/badge/React_Native-EDE9FE?style=flat-square&logo=react&logoColor=4B1248) ![Flutter](https://img.shields.io/badge/Flutter-EDE9FE?style=flat-square&logo=flutter&logoColor=4B1248)
 
-- React Native
-- Flutter
+</div>
 
-</details>
+### 🤖 AI & Data
+<div align="center">
 
-<details open>
-<summary><b><span style="color:#9333EA">🤖 AI & Data</span></b></summary>
-<br/>
+![Python](https://img.shields.io/badge/Python-EDE9FE?style=flat-square&logo=python&logoColor=4B1248) ![Pandas](https://img.shields.io/badge/Pandas-EDE9FE?style=flat-square&logo=pandas&logoColor=4B1248) ![OCR](https://img.shields.io/badge/OCR_Integration-EDE9FE?style=flat-square&logoColor=4B1248) ![NLP](https://img.shields.io/badge/NLP-EDE9FE?style=flat-square&logoColor=4B1248) ![OpenAI](https://img.shields.io/badge/OpenAI_API-EDE9FE?style=flat-square&logo=openai&logoColor=4B1248) ![AI Agents](https://img.shields.io/badge/AI_Agents-EDE9FE?style=flat-square&logoColor=4B1248) ![LLM Apps](https://img.shields.io/badge/LLM_Applications-EDE9FE?style=flat-square&logoColor=4B1248)
 
-- Python
-- Pandas
-- OCR Integration
-- NLP
-- OpenAI API Integration
-- AI Agents
-- LLM Applications
+</div>
 
-</details>
+### 🛒 E-commerce
+<div align="center">
 
-</td>
-<td valign="top" width="50%">
+![Shopify Theme](https://img.shields.io/badge/Shopify_Theme_Dev-EDE9FE?style=flat-square&logo=shopify&logoColor=4B1248) ![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-EDE9FE?style=flat-square&logo=shopify&logoColor=4B1248) ![Shopify Admin API](https://img.shields.io/badge/Shopify_Admin_API-EDE9FE?style=flat-square&logo=shopify&logoColor=4B1248) ![Store Locator](https://img.shields.io/badge/Store_Locator_Integrations-EDE9FE?style=flat-square&logoColor=4B1248) ![Payment Gateways](https://img.shields.io/badge/Payment_Gateway_Integrations-EDE9FE?style=flat-square&logoColor=4B1248) ![GA4](https://img.shields.io/badge/GA4-EDE9FE?style=flat-square&logo=googleanalytics&logoColor=4B1248) ![GTM](https://img.shields.io/badge/GTM-EDE9FE?style=flat-square&logo=googletagmanager&logoColor=4B1248) ![Meta Pixel](https://img.shields.io/badge/Meta_Pixel-EDE9FE?style=flat-square&logo=meta&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🛒 E-commerce</span></b></summary>
-<br/>
+</div>
 
-- Shopify Theme Development
-- Shopify Liquid
-- Shopify Admin API
-- Store Locator Integrations
-- Payment Gateway Integrations
-- GA4
-- GTM
-- Meta Pixel
+### 🔐 Authentication & Security
+<div align="center">
 
-</details>
+![JWT](https://img.shields.io/badge/JWT-EDE9FE?style=flat-square&logo=jsonwebtokens&logoColor=4B1248) ![Google OAuth](https://img.shields.io/badge/Google_OAuth_2.0-EDE9FE?style=flat-square&logo=google&logoColor=4B1248) ![Facebook Login](https://img.shields.io/badge/Facebook_Login-EDE9FE?style=flat-square&logo=facebook&logoColor=4B1248) ![Apple Sign-In](https://img.shields.io/badge/Apple_Sign--In-EDE9FE?style=flat-square&logo=apple&logoColor=4B1248) ![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-EDE9FE?style=flat-square&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🔐 Authentication & Security</span></b></summary>
-<br/>
+</div>
 
-- JWT
-- Google OAuth 2.0
-- Facebook Login
-- Apple Sign-In
-- Role-Based Access Control (RBAC)
+### 🔌 APIs & Integrations
+<div align="center">
 
-</details>
+![REST APIs](https://img.shields.io/badge/REST_APIs-EDE9FE?style=flat-square&logoColor=4B1248) ![Third-party APIs](https://img.shields.io/badge/Third--party_APIs-EDE9FE?style=flat-square&logoColor=4B1248) ![Payment APIs](https://img.shields.io/badge/Payment_APIs-EDE9FE?style=flat-square&logoColor=4B1248) ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-EDE9FE?style=flat-square&logo=googlemaps&logoColor=4B1248) ![Firebase](https://img.shields.io/badge/Firebase-EDE9FE?style=flat-square&logo=firebase&logoColor=4B1248) ![LiveKit](https://img.shields.io/badge/LiveKit-EDE9FE?style=flat-square&logoColor=4B1248) ![Supabase](https://img.shields.io/badge/Supabase-EDE9FE?style=flat-square&logo=supabase&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🔌 APIs & Integrations</span></b></summary>
-<br/>
+</div>
 
-- REST APIs
-- Third-party APIs
-- Payment APIs
-- Google Maps API
-- Firebase
-- LiveKit
-- Supabase
+### 🛠️ Tools
+<div align="center">
 
-</details>
+![Git](https://img.shields.io/badge/Git-EDE9FE?style=flat-square&logo=git&logoColor=4B1248) ![GitHub](https://img.shields.io/badge/GitHub-EDE9FE?style=flat-square&logo=github&logoColor=4B1248) ![Postman](https://img.shields.io/badge/Postman-EDE9FE?style=flat-square&logo=postman&logoColor=4B1248) ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-EDE9FE?style=flat-square&logo=swagger&logoColor=4B1248) ![Figma](https://img.shields.io/badge/Figma-EDE9FE?style=flat-square&logo=figma&logoColor=4B1248) ![VS Code](https://img.shields.io/badge/VS_Code-EDE9FE?style=flat-square&logo=visualstudiocode&logoColor=4B1248) ![Xcode](https://img.shields.io/badge/Xcode-EDE9FE?style=flat-square&logo=xcode&logoColor=4B1248) ![npm](https://img.shields.io/badge/npm-EDE9FE?style=flat-square&logo=npm&logoColor=4B1248) ![Yarn](https://img.shields.io/badge/Yarn-EDE9FE?style=flat-square&logo=yarn&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🛠️ Tools</span></b></summary>
-<br/>
+</div>
 
-- Git & GitHub
-- Postman
-- Swagger/OpenAPI
-- Figma
-- VS Code
-- Xcode
-- npm
-- Yarn
+### 🎯 UI/UX
+<div align="center">
 
-</details>
+![Figma](https://img.shields.io/badge/Figma-EDE9FE?style=flat-square&logo=figma&logoColor=4B1248) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-EDE9FE?style=flat-square&logoColor=4B1248) ![Mobile-First](https://img.shields.io/badge/Mobile--First_Design-EDE9FE?style=flat-square&logoColor=4B1248) ![Component-Based](https://img.shields.io/badge/Component--Based_Architecture-EDE9FE?style=flat-square&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🎯 UI/UX</span></b></summary>
-<br/>
+</div>
 
-- Figma
-- Responsive Design
-- Mobile-First Design
-- Component-Based Architecture
+### 📝 CMS
+<div align="center">
 
-</details>
+![WordPress](https://img.shields.io/badge/WordPress-EDE9FE?style=flat-square&logo=wordpress&logoColor=4B1248) ![Shopify](https://img.shields.io/badge/Shopify-EDE9FE?style=flat-square&logo=shopify&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">📝 CMS</span></b></summary>
-<br/>
+</div>
 
-- WordPress
-- Shopify
+### 🏗️ Architecture
+<div align="center">
 
-</details>
+![MVC](https://img.shields.io/badge/MVC_Architecture-EDE9FE?style=flat-square&logoColor=4B1248) ![Monolithic](https://img.shields.io/badge/Monolithic_Applications-EDE9FE?style=flat-square&logoColor=4B1248) ![Microservices](https://img.shields.io/badge/Microservices-EDE9FE?style=flat-square&logoColor=4B1248) ![SaaS](https://img.shields.io/badge/SaaS_Development-EDE9FE?style=flat-square&logoColor=4B1248) ![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant_Applications-EDE9FE?style=flat-square&logoColor=4B1248) ![ERP](https://img.shields.io/badge/ERP_Systems-EDE9FE?style=flat-square&logoColor=4B1248) ![LMS](https://img.shields.io/badge/LMS_Platforms-EDE9FE?style=flat-square&logoColor=4B1248)
 
-<details open>
-<summary><b><span style="color:#9333EA">🏗️ Architecture</span></b></summary>
-<br/>
-
-- MVC Architecture
-- Monolithic Applications
-- Microservices
-- SaaS Development
-- Multi-Tenant Applications
-- ERP Systems
-- LMS Platforms
-
-</details>
-
-</td>
-</tr>
-</table>
+</div>
 <br/>
 
 ## 🌐 Domains I've Built Products In
