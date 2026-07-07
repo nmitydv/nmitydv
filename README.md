@@ -164,7 +164,7 @@ Let's turn your ideas into reality! 🚀
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nmitydv&show_icons=true&hide_border=true&count_private=true&bg_color=E9D5FF&title_color=9333EA&icon_color=9333EA&text_color=4B1248" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmitydv&layout=compact&hide_border=true&bg_color=E9D5FF&title_color=9333EA&text_color=4B1248" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmitydv&hide_border=true&background=E9D5FF&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&sideLabels=4B1248&currStreakNum=4B1248&sideNums=4B1248&dates=9333EA" />
+  <img src="https://streak-stats.demolab.com/?user=nmitydv&hide_border=true&background=E9D5FF&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&sideLabels=4B1248&currStreakNum=4B1248&sideNums=4B1248&dates=9333EA" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=nmitydv&theme=discord&no-frame=true&row=1&column=6" />
 </div>
